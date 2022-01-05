@@ -33,11 +33,11 @@ public class Main {
 //            case 3:
 //            case 4:
 //            case 5:
-//                System.out.println("Weekday");
+//                System.out.println("Today Is Weekday Go To Work");
 //                break;
 //            case 6:
 //            case 7:
-//                System.out.println("Weekend");
+//                System.out.println("Today Is Weekend Enjoy !!!...");
 //                break;
 //        }
 
